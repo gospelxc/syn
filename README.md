@@ -10,6 +10,16 @@
 - Install node.js
 - Download this repository
 - Open command prompt
-- Install dependencies listed below
+- install dependencies by doing npm i, if error install them manually
 - open config.json
+- replace token with your bots token
+- open cmd and type node .
 ```
+
+# Dependencies
+
+- discord.js
+- nekos.life
+- fs
+- moment
+
