@@ -1,0 +1,25 @@
+{
+  "name": "nekos.life-bot",
+  "version": "1.0.0",
+  "description": "Very simple Nekos.life bot using the Nekos.life wrapper and discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fekt/nekos.life-bot.git"
+  },
+  "author": "fekt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fekt/nekos.life-bot/issues"
+  },
+  "homepage": "https://github.com/fekt/nekos.life-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "figlet": "^1.5.0",
+    "moment": "^2.29.1",
+    "nekos.life": "^2.0.7"
+  }
+}
