@@ -1,6 +1,11 @@
 # Syn NSFW Discord Bot
 > Syn is a simple nsfw bot not just with nsfw commands.
 
+Instead of downloading the repository. You can invite the bot!
+
+- Invite: https://discord.com/oauth2/authorize?client_id=808572535779622922&permissions=10256&scope=bot
+- Server: https://discord.gg/WVtCx9w9m5
+
 
 # About
 > Syn is a discord bot that has nsfw / sfw commands, it's currently in over 200 servers.
