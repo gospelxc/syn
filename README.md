@@ -3,3 +3,5 @@
 
 
 # About
+> Syn is a discord bot that has nsfw / sfw commands, it's currently in over 200 servers.
+> 
