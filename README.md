@@ -8,4 +8,8 @@
 # Installaion
 ```
 - Install node.js
+- Download this repository
+- Open command prompt
+- Install dependencies listed below
+- open config.json
 ```
